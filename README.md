@@ -1,2 +1,4 @@
 # Ansi-Maker
-Ansi-Maker
+디스코드 ANSI 메이커
+
+Forked By https://github.com/frin0911/discord-ansi-converter
